@@ -1,0 +1,2 @@
+version=4
+https://github.com/resurrecting-open-source-projects/stress/tags .*/tags/(\d\S+)\.tar\.(?:bz2|gz|xz)
